@@ -1,0 +1,19 @@
+{
+  "name": "ubuntu-fontface",
+  "version": "1.0.0",
+  "description": "Ubuntu Font Family Bower-ready (also SCSS-ready, LESS-ready, and plain CSS-ready)",
+  "main": "ubuntu.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozone-development/ubuntu-fontface"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozone-development/ubuntu-fontface/issues"
+  },
+  "homepage": "https://github.com/ozone-development/ubuntu-fontface"
+}
